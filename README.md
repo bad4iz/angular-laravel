@@ -12,7 +12,7 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app w
 ```
 npm install
 ```
-- Download [laravel-api](https://github.com/eliyas5044/laravel-api), which i used as a RESTful api.
+- Download [laravel-api](https://github.com/bad4iz/laravel-api), which i used as a RESTful api.
 - Run your `angular` app by this command
 ```
 ng serve
