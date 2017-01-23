@@ -3,7 +3,8 @@
 This project was generated with [angular-cli](https://github.com/angular/angular-cli) version 1.0.0-beta.24.
 
 ## Development server
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`.
+ The app will automatically reload if you change any of the source files.
 
 #angular-laravel
 
@@ -12,7 +13,7 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app w
 ```
 npm install
 ```
-- Download [laravel-api](https://github.com/eliyas5044/laravel-api), which i used as a RESTful api.
+- Download [laravel-api](aravel-api), which i used as a RESTful api.
 - Run your `angular` app by this command
 ```
 ng serve
